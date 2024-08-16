@@ -1,6 +1,6 @@
 # Frontend Mentor - Age Calculator App Solution
 
-This is a solution to the [Age Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-5YDRrWp8q). This challenge helped improve my skills in building user interfaces using React and Tailwind CSS.
+This is a solution to the [Age Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q/hub). This challenge helped improve my skills in building user interfaces using React and Tailwind CSS.
 
 ## Table of Contents
 
